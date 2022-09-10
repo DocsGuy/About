@@ -9,5 +9,6 @@
 - Scriptblox: idkifthisisagoodname (https://scriptblox.com/u/idkifthisisagoodname)
 - Discord: SoloDev#7416
 - Elysium: SoloDev (https://elysium.wtf/members/solodev.567/)
+- Main github: ZSIOffica (https://github.com/ZSIOffical)
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocsGuy&show_icons=true&theme=radical)
