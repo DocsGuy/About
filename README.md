@@ -5,7 +5,7 @@
 # Projects I work for
 - ⚔ Muz.wtf (https://discord.gg/8Svj2sX6kS)
 # Profiles on other plattforms
-- 📜 Scriptblox: idkifthisisagoodname (https://scriptblox.com/u/idkifthisisagoodname)
+- 📜 Scriptblox: Verified (https://scriptblox.com/u/Verified)
 - 📜 Elysium: SoloDev (https://elysium.wtf/members/solodev.567/)
 - 📞 Discord: SoloDev#7416
 - 📚 Main github: ZSIOffical https://github.com/ZSIOffical)
