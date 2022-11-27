@@ -3,7 +3,6 @@
 - 🌙 Lua
 
 # Projects I work for
-- 👻 Project Phantom (https://discord.gg/h3sExDK6uQ)
 - ⚔ Muz.wtf (https://discord.gg/8Svj2sX6kS)
 # Profiles on other plattforms
 - 📜 Scriptblox: idkifthisisagoodname (https://scriptblox.com/u/idkifthisisagoodname)
